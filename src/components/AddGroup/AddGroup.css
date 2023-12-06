@@ -1,0 +1,16 @@
+.addgroup-main-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sub-div {
+    width: 40%;
+    gap: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.submit-btn{
+    width: -webkit-fill-available;
+}
