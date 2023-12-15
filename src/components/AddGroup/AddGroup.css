@@ -5,7 +5,6 @@
 }
 
 .sub-div {
-    width: 40%;
     gap: 15px;
     display: flex;
     flex-direction: column;
