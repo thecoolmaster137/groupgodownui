@@ -1,10 +1,14 @@
 import React from "react";
 import "./Home.css";
+import AddGroup from "../AddGroup/AddGroup";
+
 export default function Home() {
   return (
     <div className="home-main-div">
       <div className="add-btn-div">
-        <button className="btn btn-success">+ Add Groups</button>
+        <button className="btn btn-success" onClick={AddGroup}>
+          + Add Groups
+        </button>
       </div>
       <div className="select-div">
         <div>
@@ -65,17 +69,19 @@ export default function Home() {
         </div>
         <div className="ps-4 pe-4 d-flex justify-content-between">
           <a href="#">Join Group </a>
-          <p>
+          <p className="social-icons-p">
             Share on :{" "}
-            <a href="#">
-              <i class="bi bi-whatsapp"></i>
-            </a>
-            <a href="#">
-              <i class="bi bi-instagram"></i>
-            </a>
-            <a href="#">
-              <i class="bi bi-telegram"></i>
-            </a>
+            <div className="social-icons-div">
+              <a href="#">
+                <i class="bi bi-whatsapp"></i>
+              </a>
+              <a href="#">
+                <i class="bi bi-instagram"></i>
+              </a>
+              <a href="#">
+                <i class="bi bi-telegram"></i>
+              </a>
+            </div>
           </p>
         </div>
       </div>
