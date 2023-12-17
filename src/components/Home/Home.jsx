@@ -1,14 +1,13 @@
 import React from "react";
 import "./Home.css";
-import AddGroup from "../AddGroup/AddGroup";
-
+import { Link } from "react-router-dom";
 export default function Home() {
   return (
     <div className="home-main-div">
       <div className="add-btn-div">
-        <button className="btn btn-success" onClick={AddGroup}>
+        <Link className="btn btn-success" to="/addgroup">
           + Add Groups
-        </button>
+        </Link>
       </div>
       <div className="select-div">
         <div>
