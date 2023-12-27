@@ -45,7 +45,7 @@ function AddGroup() {
             placeholder="Enter Tags by Comma(,) Separated (Optional)"
           />
           <div id="passwordHelpBlock" class="form-text">
-            Ex:- Funny, Jokes, City, State(Up to 100 words)
+            Ex:- Business, Study, Comedy, Movie (Up to 100 words)
           </div>
         </div>
         <div class="mb-3">
@@ -55,7 +55,7 @@ function AddGroup() {
             rows="3"
           ></textarea>
           <div id="passwordHelpBlock" class="form-text">
-            Ex:- Funny, Jokes, City, State(Up to 100 words)
+            Ex:- Funny, Jokes, City, State(Up to 500 words)
           </div>
           <p>Note:- Your Group is Visible to Public Worldwide (Everyone)</p>
           <button className="btn btn-success submit-btn">Submit</button>

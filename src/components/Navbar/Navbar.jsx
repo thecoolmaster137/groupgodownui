@@ -1,14 +1,15 @@
 import React from "react";
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
+import "./Navbar.css";
 
 function Navbar() {
   return (
     <>
       <nav className="navbar navbar-expand-lg bg-body-tertiary">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">
+          <NavLink className="navbar-brand" to="/">
             GLinks
-          </Link>
+          </NavLink>
           <button
             className="navbar-toggler"
             type="button"
@@ -23,29 +24,50 @@ function Navbar() {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <Link className="nav-link" to="/">
+                <NavLink
+                  className="nav-link"
+                  to="/"
+                  exact
+                  activeClassName="active"
+                >
                   Home
-                </Link>
+                </NavLink>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/addgroup">
+                <NavLink
+                  className="nav-link"
+                  to="/addgroup"
+                  activeClassName="active"
+                >
                   Add Group
-                </Link>
+                </NavLink>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/terms">
+                <NavLink
+                  className="nav-link"
+                  to="/terms"
+                  activeClassName="active"
+                >
                   Terms
-                </Link>
+                </NavLink>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/privacy">
+                <NavLink
+                  className="nav-link"
+                  to="/privacy"
+                  activeClassName="active"
+                >
                   Privacy
-                </Link>
+                </NavLink>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/contact">
+                <NavLink
+                  className="nav-link"
+                  to="/contact"
+                  activeClassName="active"
+                >
                   Contact
-                </Link>
+                </NavLink>
               </li>
             </ul>
             <form className="d-flex" role="search">
