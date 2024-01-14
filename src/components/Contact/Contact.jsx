@@ -5,7 +5,7 @@ export default function Contact() {
     <div className="contact-outer-div">
       <div className="contact-main-div">
         <h5>Contact Us</h5>
-        <p>Email : glinks@groups.com</p>
+        <p>Email : contact@groupgodown.com</p>
         <div class="mb-3">
           <input type="text" class="form-control" placeholder="Your Name" />
         </div>

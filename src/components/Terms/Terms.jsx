@@ -19,33 +19,33 @@ export default function Terms() {
           then you are not permitted to access or use the content or any service
           in the website. While joining the group you agree that any
           conversation in the group or carried out personally is through your
-          sole discretion and Groupsor does not hold any responsibility for the
+          sole discretion and GroupGoDown does not hold any responsibility for the
           conversation or any outcome of the conversation.
         </p>
         <h5>Description of Service</h5>
         <p>
-          Groupsor currently provides users with certain services and content,
+          GroupGoDown currently provides users with certain services and content,
           as described more fully on the site, (the "Services"). You also
-          understand and agree that Groupsor assumes no responsibility for the
+          understand and agree that GroupGoDown assumes no responsibility for the
           suitability, reliability, availability, timeliness and accuracy of the
-          information and services contained within Groupsor website for any
+          information and services contained within GroupGoDown website for any
           purpose. Services are provided "AS IS" without warranty of any kind.
         </p>
         <h5>Modification of Service</h5>
         <p>
-          Groupsor reserves the right at any time and from time to time to
+          GroupGoDown reserves the right at any time and from time to time to
           modify or discontinue, temporarily or permanently, the Service (or any
-          part thereof) with or without notice to you. You agree that Groupsor
+          part thereof) with or without notice to you. You agree that GroupGoDown
           shall not be liable to you or to any third party for any modification,
           suspension or discontinuance of the Service.
         </p>
         <h5>Registration Obligations</h5>
         <p>
-          You are not required to register with Groupsor before using the
+          You are not required to register with GroupGoDown before using the
           services, but you understand that certain features of the service may
           not be accessible to you unless you register. In registering for the
-          service you agree to provide Groupsor with true, accurate and complete
-          registration information. Groupsor reserves the right to suspend or
+          service you agree to provide GroupGoDown with true, accurate and complete
+          registration information. GroupGoDown reserves the right to suspend or
           terminate your account and refuse any and all current or future use of
           the Service (or any portion thereof), with or without notice to you.
           Services are available only to individuals who are atleast 13 years
@@ -53,20 +53,20 @@ export default function Terms() {
           age is unauthorized and in violation of these Terms and conditions.
         </p>
         <h5>Privacy policy</h5>
-        <p>You may review Groupsor privacy policy here: Privacy Policy</p>
+        <p>You may review GroupGoDown privacy policy here: Privacy Policy</p>
         <h5>User Conduct</h5>
         <p>
           You understand that all information, data, text, software, music,
           sound, photographs, graphics, video, messages or other materials
           ("Content"), whether publicly posted or privately transmitted, are the
           sole responsibility of the person from which such Content originated.
-          This means that you, and not Groupsor, are entirely responsible for
+          This means that you, and not GroupGoDown, are entirely responsible for
           all Content that you upload, post, email, transmit or otherwise make
-          available via the Service. Groupsor does not control the Content
+          available via the Service. GroupGoDown does not control the Content
           posted via the Service and, as such, does not guarantee the accuracy,
           integrity or quality of such Content. You understand that by using the
           Service, you may be exposed to Content that is offensive, indecent or
-          objectionable. Under no circumstances will Groupsor be liable in any
+          objectionable. Under no circumstances will GroupGoDown be liable in any
           way for any Content, including, but not limited to, for any errors or
           omissions in any Content, or for any loss or damage of any kind
           incurred as a result of the use of any Content posted, emailed,
@@ -83,7 +83,7 @@ export default function Terms() {
         <p>(b) harm minors in any way;</p>
         <p>
           (c) impersonate any person or entity, including, but not limited to, a
-          Groupsor official, guide or host, or falsely state or otherwise
+          GroupGoDown official, guide or host, or falsely state or otherwise
           misrepresent your affiliation with a person or entity;
         </p>
         <p>
@@ -152,22 +152,22 @@ export default function Terms() {
           forfeited.
         </p>
         <p>
-          (p) offer any form of incentive to users who click on an Groupsor
+          (p) offer any form of incentive to users who click on an GroupGoDown
           link, not limited to points/bonus/money/gifts/traffic or link
-          exchange. You acknowledge that Groupsor may OR MAY NOT pre-screen
-          Content, but that Groupsor shall have the right (but not the
+          exchange. You acknowledge that GroupGoDown may OR MAY NOT pre-screen
+          Content, but that GroupGoDown shall have the right (but not the
           obligation) in their sole discretion to PRE-SCREEN, refuse, or move
           any Content (or Account) that is available via the Service. Without
-          limiting the foregoing, Groupsor and its designees shall have the
+          limiting the foregoing, GroupGoDown and its designees shall have the
           right to remove any Content or Accounts that violates the TOS or is
           otherwise objectionable. You agree that you must evaluate, and bear
           all risks associated with, the use of any Content or Accounts,
           including any reliance on the accuracy, completeness, or usefulness of
           such Content. In this regard, you acknowledge that you may not rely on
-          any Content or Accounts created by Groupsor or submitted to Groupsor,
-          including without limitation information in Groupsor message boards,
+          any Content or Accounts created by GroupGoDown or submitted to GroupGoDown,
+          including without limitation information in GroupGoDown message boards,
           and in all other parts of the Service. You acknowledge, consent and
-          agree that Groupsor may access, preserve, and disclose your account
+          agree that GroupGoDown may access, preserve, and disclose your account
           information and Content if required to do so by law or in a good faith
           belief that such access preservation or disclosure is reasonably
           necessary to:
@@ -180,7 +180,7 @@ export default function Terms() {
         </p>
         <p>(d) respond to your requests for customer service; or</p>
         <p>
-          (e) protect the rights, property, or personal safety of Groupsor, its
+          (e) protect the rights, property, or personal safety of GroupGoDown, its
           users and the public. You understand that the technical processing and
           transmission of the Service, including your Content, may involve
         </p>
@@ -190,7 +190,7 @@ export default function Terms() {
           connecting networks or devices. You understand that the Service and
           software embodied within the Service may include security components
           that permit digital materials to be protected, and use of these
-          materials is subject to usage rules set by Groupsor and/or content
+          materials is subject to usage rules set by GroupGoDown and/or content
           providers who provide content to the Service. You may not attempt to
           override or circumvent any of the usage rules embedded into the
           Service. Any unauthorized reproduction, publication, further
@@ -199,32 +199,32 @@ export default function Terms() {
         </p>
         <h5>Submitted Content</h5>
         <p>
-          Groupsor does not claim ownership of content or links you submit or
+          GroupGoDown does not claim ownership of content or links you submit or
           make available for inclusion on the Service. However, with respect to
           content or links you submit or make available for inclusion on the
-          Service, you grant Groupsor the following world-wide, royalty free and
+          Service, you grant GroupGoDown the following world-wide, royalty free and
           non-exclusive license(s) with respect to content or link you submit or
-          make available for inclusion on Groupsor, the license to use,
+          make available for inclusion on GroupGoDown, the license to use,
           distribute, reproduce, modify, adapt, publicly perform and publicly
           display such content or link on the Service solely for the purposes of
           providing and promoting the specific Service which such content or
           link was submitted or made available. This license exists only for as
           long as you elect to continue to include such content or link on the
-          Service and will terminate at the time you remove or Groupsor removes
+          Service and will terminate at the time you remove or GroupGoDown removes
           such content or link from the Service.
         </p>
         <h5>User created Groups</h5>
         <p>
-          Groupsor does not claim ownership of content or links that are
-          submitted in the user created groups. Groupsor shall not be liable for
+          GroupGoDown does not claim ownership of content or links that are
+          submitted in the user created groups. GroupGoDown shall not be liable for
           the conversation or content or any other media communicated in these
           groups.
         </p>
         <h5>Links and References</h5>
         <p>
           The Service may contain links to third-party websites or resources.
-          Because Groupsor has no control over such websites and resources, you
-          acknowledge and agree that Groupsor is not responsible or liable for:
+          Because GroupGoDown has no control over such websites and resources, you
+          acknowledge and agree that GroupGoDown is not responsible or liable for:
         </p>
         <p>
           (a) the availability or accuracy of such websites or resources; or
@@ -232,23 +232,23 @@ export default function Terms() {
         <p>
           (b) the content, advertising, products or services on or available
           from such websites or resources. You further acknowledge and agree
-          that Groupsor shall not be responsible or liable, directly or
+          that GroupGoDown shall not be responsible or liable, directly or
           indirectly, for any damage or loss caused or alleged to be caused by
           or in connection with use of or reliance on any such content, goods or
           services available on or through any such website or resource.
         </p>
         <h5>Termination</h5>
         <p>
-          You agree that Groupsor, in its sole discretion, may terminate, change
+          You agree that GroupGoDown, in its sole discretion, may terminate, change
           or limit any of the Services or their availability to you, notice at
           any time and without prior notice, with or without cause. Further, you
-          agree that Groupsor shall not be liable to you or any third-party for
+          agree that GroupGoDown shall not be liable to you or any third-party for
           any termination of your account, any associated email address, or
           access to the service.
         </p>
         <h5>Indeminity</h5>
         <p>
-          You agree to indemnify and hold harmless Groupsor, its parents,
+          You agree to indemnify and hold harmless GroupGoDown, its parents,
           subsidiaries, afiliates, officers, agents, partners and employees from
           any losses, expenses, damages and costs, including reasonable
           attorney's fees, made by any third party due to or arising out of
@@ -262,13 +262,13 @@ export default function Terms() {
           (a) YOU AGREE THAT YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK AND
           ACKNOWLEDGE THAT THE SERVICES, INCLUDING, BUT NOT LIMITED TO, CONTENT,
           SERVICES, GOOD, OR ADVERTISEMENT ARE PROVIDED "AS IS" AND "AS
-          AVAILABLE" BASIS. Groupsor DISCLAIMS ALL WARRANTIES OF ANY KIND,
+          AVAILABLE" BASIS. GroupGoDown DISCLAIMS ALL WARRANTIES OF ANY KIND,
           WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED
           WARRANTIES OF MERCHANTABILITY, NON-INFRINGEMENT, TITLE, OR FITNESS FOR
           A PARTICULAR PURPOSE OR USE.
         </p>
         <p>
-          (b) Groupsor MAKES NO WARRANTY THAT (i) THE SERVICE WILL MEET YOUR
+          (b) GroupGoDown MAKES NO WARRANTY THAT (i) THE SERVICE WILL MEET YOUR
           REQUIREMENTS, (ii) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE,
           OR ERROR-FREE, (iii) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF
           THE SERVICE WILL BE ACCURATE OR RELIABLE, (iv) THE QUALITY OF ANY
@@ -284,7 +284,7 @@ export default function Terms() {
         </p>
         <p>
           (d) NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU
-          FROM Groupsor OR THROUGH OR FROM THE SERVICE SHALL CREATE ANY WARRANTY
+          FROM GroupGoDown OR THROUGH OR FROM THE SERVICE SHALL CREATE ANY WARRANTY
           NOT EXPRESSLY STATED IN THE TOS.
         </p>
         <p>
@@ -302,12 +302,12 @@ export default function Terms() {
         </p>
         <h5>Limitation of Liabilities</h5>
         <p>
-          (a) YOU UNDERSTAND AND AGREE THAT Groupsor AND ITS SUBSIDIARIES,
+          (a) YOU UNDERSTAND AND AGREE THAT GroupGoDown AND ITS SUBSIDIARIES,
           AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS SHALL
           NOT BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
           CONSEQUENTIAL OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO,
           DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA OR OTHER INTANGIBLE
-          LOSSES (EVEN IF Groupsor HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+          LOSSES (EVEN IF GroupGoDown HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
           DAMAGES), RESULTING FROM: (i) YOUR ACCESS TO OR USE OF OR INABILITY TO
           ACCESS OR USE THE SERVICES; (ii) THE COST OF PROCUREMENT OF SUBSTITUTE
           GOODS OR SERVICES RESULTING FROM ANY GOODS, DATA, INFORMATION OR
@@ -320,7 +320,7 @@ export default function Terms() {
         <p>
           (b) YOU UNDERSTAND AND AGREE THAT BY USING THE SERVICE, YOU MAY BE
           EXPOSED TO CONTENT THAT IS OFFENSIVE, INDECENT OR OBJECTIONABLE. UNDER
-          NO CIRCUMSTANCES WILL Groupsor AND ITS SUBSIDIARIES, AFFILIATES,
+          NO CIRCUMSTANCES WILL GroupGoDown AND ITS SUBSIDIARIES, AFFILIATES,
           OFFICERS, EMPLOYEES, AGENTS, PARTNERS AND LICENSORS BE LIABLE IN ANY
           WAY FOR ANY CONTENT, INCLUDING, BUT NOT LIMITED TO, ANY ERRORS OR
           OMISSIONS IN ANY CONTENT, OR ANY LOSS OR DAMAGE OF ANY KIND INCURRED
@@ -329,7 +329,7 @@ export default function Terms() {
         </p>
         <p>
           (c) YOU UNDERSTAND AND AGREE THAT THE SERVICE IS PROVIDED "AS-IS" AND
-          THAT Groupsor AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES,
+          THAT GroupGoDown AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES,
           AGENTS, PARTNERS AND LICENSORS ASSUME NO RESPONSIBILITY FOR THE
           TIMELINESS, DELETION, MIS-DELIVERY OR FAILURE TO STORE ANY USER
           COMMUNICATIONS OR PERSONALIZATION SETTINGS.

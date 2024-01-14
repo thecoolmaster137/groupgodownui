@@ -7,10 +7,10 @@ export default function Privacy() {
       <div className="privacy-main-div">
         <h5>Privacy Policy</h5>
         <p>
-          At Groupsor, accessible from https://groupsor.link, one of our main
+          At GroupGoDown, accessible from https://groupgodown.com, one of our main
           priorities is the privacy of our visitors. This Privacy Policy
           document contains types of information that is collected and recorded
-          by Groupsor and how we use it.
+          by GroupGoDown and how we use it.
         </p>
         <p>
           If you have additional questions or require more information about our
@@ -19,7 +19,7 @@ export default function Privacy() {
         <p>
           This Privacy Policy applies only to our online activities and is valid
           for visitors to our website with regards to the information that they
-          shared and/or collect in Groupsor. This policy is not applicable to
+          shared and/or collect in GroupGoDown. This policy is not applicable to
           any information collected offline or via channels other than this
           website.
         </p>
@@ -58,7 +58,7 @@ export default function Privacy() {
         </p>
         <h5>Log Files</h5>
         <p>
-          Groupsor follows a standard procedure of using log files. These files
+          GroupGoDown follows a standard procedure of using log files. These files
           log visitors when they visit websites. All hosting companies do this
           and a part of hosting services' analytics. The information collected
           by log files include internet protocol (IP) addresses, browser type,
@@ -70,7 +70,7 @@ export default function Privacy() {
         </p>
         <h5>Cookies and Web Beacons</h5>
         <p>
-          Like any other website, Groupsor uses "cookies". These cookies are
+          Like any other website, GroupGoDown uses "cookies". These cookies are
           used to store information including visitors' preferences, and the
           pages on the website that the visitor accessed or visited. The
           information is used to optimize the users' experience by customizing
@@ -97,20 +97,20 @@ export default function Privacy() {
         <h5>Advertising Partners Privacy Policies</h5>
         <p>
           You may consult this list to find the Privacy Policy for each of the
-          advertising partners of Groupsor. Third-party ad servers or ad
+          advertising partners of GroupGoDown. Third-party ad servers or ad
           networks uses technologies like cookies, JavaScript, or Web Beacons
           that are used in their respective advertisements and links that appear
-          on Groupsor, which are sent directly to users' browser. They
+          on GroupGoDown, which are sent directly to users' browser. They
           automatically receive your IP address when this occurs. These
           technologies are used to measure the effectiveness of their
           advertising campaigns and/or to personalize the advertising content
-          that you see on websites that you visit. Note that Groupsor has no
+          that you see on websites that you visit. Note that GroupGoDown has no
           access to or control over these cookies that are used by third-party
           advertisers.
         </p>
         <h5>Third Party Privacy Policies</h5>
         <p>
-          Groupsor's Privacy Policy does not apply to other advertisers or
+          GroupGoDown's Privacy Policy does not apply to other advertisers or
           websites. Thus, we are advising you to consult the respective Privacy
           Policies of these third-party ad servers for more detailed
           information. It may include their practices and instructions about how
@@ -167,7 +167,7 @@ export default function Privacy() {
           Another part of our priority is adding protection for children while
           using the internet. We encourage parents and guardians to observe,
           participate in, and/or monitor and guide their online activity.
-          Groupsor does not knowingly collect any Personal Identifiable
+          GroupGoDown does not knowingly collect any Personal Identifiable
           Information from children under the age of 13. If you think that your
           child provided this kind of information on our website, we strongly
           encourage you to contact us immediately and we will do our best
