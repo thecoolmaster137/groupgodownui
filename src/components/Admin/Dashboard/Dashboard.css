@@ -1,0 +1,15 @@
+.tabs_main-div {
+  gap: 10px;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+
+.dashboard_tabs {
+  border-radius: 5px;
+  text-align: center;
+  width: 20%;
+  padding: 20px;
+  border: 1px solid;
+}

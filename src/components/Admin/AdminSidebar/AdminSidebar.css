@@ -1,0 +1,12 @@
+.nav-pills,
+.nav-pills li {
+  width: -webkit-fill-available;
+}
+
+.navbar_icons {
+  margin-left: 5%;
+}
+
+.d-none {
+  margin-left: 2%;
+}
