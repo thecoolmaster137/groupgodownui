@@ -43,7 +43,7 @@ export default function Home() {
   useEffect(() => {
     const handleDataFetch = async () => {
       try {
-        const apiUrl = `${baseUri}api/Group/id/Groups?catId=${selectedCategory}&country=${selectedCountry}&lang=${selectedLanguage}&appid=${selectedApplicationType}`;
+        const apiUrl = `${baseUri}api/Groups/id/Groups?catId=${selectedCategory}&country=${selectedCountry}&lang=${selectedLanguage}&appid=${selectedApplicationType}`;
         const response = await fetch(apiUrl);
 
         if (!response.ok) {
@@ -162,7 +162,8 @@ export default function Home() {
       <div key={group.groupID} className="card">
         <div className="card-body">
           <img
-            src="https://png.pngtree.com/png-clipart/20191121/original/pngtree-group-icon-png-image_5097424.jpg"
+            //src="https://png.pngtree.com/png-clipart/20191121/original/pngtree-group-icon-png-image_5097424.jpg"
+            src = {group.groupImage}
             width={"8%"}
           />
           <div className="heading-div">

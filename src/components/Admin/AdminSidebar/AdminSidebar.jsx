@@ -9,7 +9,7 @@ function AdminSidebar() {
         <nav className="navbar bg-body-tertiary">
           <div className="container-fluid">
             <NavLink to="" className="navbar-brand">
-              GLinks
+              GroupGoDown
             </NavLink>
             <div className="pe-5">
               <div className="dropdown-center">
